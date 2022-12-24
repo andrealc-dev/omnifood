@@ -1,4 +1,3 @@
-# Page
 https://andrealc-dev.github.io/omnifood/
 
 # Omnifood
